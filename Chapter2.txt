@@ -1,0 +1,21 @@
+Core Ideas in Data Mining
+  Classification: examine data with unknown classifcation and predict what the classification is.
+  Prediction: predict the value of a numerical variable rather than a class.
+  Association Rules and Recommendation Systems: find what goes with what
+  
+  Supervised Learning Algorithms: used in classfication and prediction.
+    Training Data: the first sample of data from which the algorithm is trained about the relationship between predictor variables and outcome variable.
+    Validation Data: the second sample of lableled data used to evaluate the trained algorithm.
+    Test Data: the third sample that is used as a final evaluation of the model.
+  Unsupervised Learning: used where there are no outcome variable to predict or classify.
+    Examples: association rules, dimension reduction methods and clustering techniques.
+
+Steps in Data Mining
+  1. Define Purpose
+  2. Obtain Data
+  3. Explore and Clean data
+  4. Determine DM Task
+  5. Choose DM Methods
+  6. Apply Methods and Select Final Model
+  7. Evaluate Performance
+  8. Deploy
